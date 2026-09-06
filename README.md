@@ -2,7 +2,14 @@
 **Senior Flutter Architect | Mobile Engineering Lead | Full-Stack Developer**
 
 Building scalable cross-platform ecosystems and highly decoupled UI systems. Operating as a full-time remote B2B contractor, I specialize in managing the full product lifecycle, from advanced monorepo architectures to rigorous engineering standards.
-![Porfolio&company website](https://koussay97.github.io/portfolio_koussay/?utm_source=github&utm_medium=profile&utm_campaign=github_display)
+
+<div align="center">
+  <a href="https://koussay97.github.io/portfolio_koussay/?utm_source=github&utm_medium=profile&utm_campaign=github_display" style="text-decoration: none;">
+    <h3>🌐 Check my website</h3>
+    <img src="https://koussay97.github.io/portfolio_koussay/assets/identity/white_thumbnail_moz.jpg" width="450" alt="Arkana Labs Portfolio">
+  </a>
+</div>
+<br>
 
 ## ⚡ Core Expertise
 
