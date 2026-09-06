@@ -2,11 +2,12 @@
 **Senior Flutter Architect | Mobile Engineering Lead | Full-Stack Developer**
 
 Building scalable cross-platform ecosystems and highly decoupled UI systems. Operating as a full-time remote B2B contractor, I specialize in managing the full product lifecycle, from advanced monorepo architectures to rigorous engineering standards.
+![Porfolio&company website](https://koussay97.github.io/portfolio_koussay/?utm_source=github&utm_medium=profile&utm_campaign=github_display)
 
 ## ⚡ Core Expertise
 
 * 🏛️ **Architecture & Standards:** Clean Architecture, Domain-Driven Design (DDD), SOLID, TDD.
-* 📦 **Monorepo Ecosystems:** Flutter monorepos utilizing Melos and custom shell scripts.
+* 📦 **Monorepo Ecosystems:** Flutter monorepos utilizing Melos and ]custom shell scripts.
 * ⚙️ **CI/CD & DevOps:** Fastlane, GitHub Actions, Jenkins, CircleCI, and FVM.
 * 🎨 **Agnostic UI Engineering:** State-agnostic component catalogs decoupled via custom Flutter Hooks and tested on Widgetbook.
 * 🌐 **Real-Time & Protocol Optimization:** WebRTC, video compression (VP8/VP9), and advanced rate-limiting mechanisms.
