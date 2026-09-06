@@ -52,10 +52,10 @@ Building scalable cross-platform ecosystems and highly decoupled UI systems. Ope
   <a href="mailto:koussayissaoui7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/koussay-issaoui-b67211199/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_STACKEXCHANGE_URL">
+  <a href="https://stackoverflow.com/users/18180543/koussay-issaoui?tab=profile">
     <img src="https://img.shields.io/badge/StackExchange-242729?style=for-the-badge&logo=stackexchange&logoColor=white" alt="StackExchange" />
   </a>
 </p>
